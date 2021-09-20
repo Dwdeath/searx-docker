@@ -1,0 +1,3 @@
+language = "Python3"
+onBoot = "docker-compose run —rm searx ghci"
+run = "python3 searx/webapp.py"
